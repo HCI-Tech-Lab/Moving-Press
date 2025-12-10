@@ -1,17 +1,19 @@
-# PiMForce
+# Moving-Press
 
-This is the repository that contains source code for the [PiMForce website](https://hci-tech-lab.github.io/PiMForce/).
+This is the repository that contains source code for the [Moving-Press website](https://hci-tech-lab.github.io/Moving-Press/).
 
-If you find PiMForce useful for your work please cite:
+If you find Moving-Press useful for your work please cite:
 ```
-    @inproceedings{
-      seo2024postureinformed,
-      title={Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation},
-      author={Kyungjin Seo, Junghoon Seo, Hanseok Jeong, Sangpil Kim, and Sang Ho Yoon},
-      booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-      year={2024},
-      url={https://openreview.net/forum?id=LtS7pP8rEn}
-      }       
+    @article{yoon2025moving,
+      title={Moving-Press: Pressure-based Moving Phantom Sensation for Immersive VR Hand Interaction},
+      author={Yoon, Sang Ho and Kwak, DongKyu and Seo, Kyungjin and Kim, Rachel},
+      journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+      volume={9},
+      number={4},
+      pages={1--24},
+  year={2025},
+  publisher={ACM New York, NY, USA}
+}       
 ```
 
 # Website License
